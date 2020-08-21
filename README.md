@@ -1,4 +1,4 @@
-# Solve Sudoku with AI
+## Developed a Sudoku Solver as part of AI nanodegree program on Udacity
 
 ## Synopsis
 
